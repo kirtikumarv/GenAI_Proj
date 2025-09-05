@@ -1,2 +1,2 @@
-# HelloWorld
-hello world is python application
+# Gen AI Project
+Read PDF & QnA Chatbot 
